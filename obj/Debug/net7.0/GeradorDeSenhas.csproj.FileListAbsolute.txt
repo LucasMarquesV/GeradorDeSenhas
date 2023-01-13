@@ -1,0 +1,15 @@
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.csproj.AssemblyReference.cache
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.AssemblyInfoInputs.cache
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.AssemblyInfo.cs
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.exe
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.deps.json
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.runtimeconfig.json
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.dll
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net7.0\GeradorDeSenhas.pdb
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.dll
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\refint\GeradorDeSenhas.dll
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.pdb
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\GeradorDeSenhas.genruntimeconfig.cache
+C:\Coding\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net7.0\ref\GeradorDeSenhas.dll
